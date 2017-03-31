@@ -28,4 +28,8 @@
 *.out
 *.app
 
+# build output
 main
+
+# other output
+main.dSYM/*
